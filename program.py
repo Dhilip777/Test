@@ -6,11 +6,12 @@ print(a)
 print("Hello world")
 print("conflict from branch")
 
-print("Task 2")
+def hello():
+    print("Task 2") #code ending by here- edit made by person a1
 fahrenheit=float(input("Enter the input for fahrenheit = "))
 b=((fahrenheit-32)*5)/9
 print(b)
-print("changes made by dhilip")
 
-# code end by here
+
+# code ending by here- edit made by person a1
 
