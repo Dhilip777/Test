@@ -11,3 +11,5 @@ fahrenheit=float(input("Enter the input for fahrenheit = "))
 b=((fahrenheit-32)*5)/9
 print(b)
 
+# code end by here
+
